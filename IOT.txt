@@ -1,0 +1,24 @@
+even in the 21st century a good night sleep is extremly expensive due to inconsistent security standards in current gen technology, 
+The best solution I suggest is to deploy my facial recognition software in the existing CCTV cameras system. 
+
+To give you an idea of how extreme the problem is and why my project is a suitable solution.
+
+statistically even in the united states  60% of the Murder cases, 50% assaults,10% Vehicle theft crimes remains unsolved , 
+If you look at these numbers the escape of Vehicle theft criminals 
+are only of 10% but in other catagories of crime the rate is significantly higher,
+
+this is because all the vehicles have a number plate which can be read through cctv cameras. 
+
+Imagine if every person could be identified easily in a short amount of time.
+
+
+So the basic concept of this software is to simply compare and to calculate their varience in facial parameters, 
+upon recieving the amount of varience it is then decided if the faces from the images are of a same person's. 
+To calculate the variance the facial recognition software uses 2 formulas MSE(Mean squared error) and SSIM(Structural similarity index), 
+MSE will give a value from 0 to infinity, If the value is exactly 0 then the image will be exact copy,
+if the mse value is greater than 0 the 2 images shows deviance. 
+SSIM values ranges from -1 to +1,-1 being the most variant and +1 indicating the copy of the original image.
+
+I would like to make India to be the safest place to shelter
+-Government data base
+-Kaavalan app
